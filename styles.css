@@ -3,6 +3,7 @@
    .holder{
             display: flex;
              align-items: center;
+	   justify-content: center;
         }
         .item-1{
             width: 100px;
